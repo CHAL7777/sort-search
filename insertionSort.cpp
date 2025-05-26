@@ -19,7 +19,7 @@ void printArray(int arr[],int size){
 	}
 }
 int main(){
-	int arr[]={12,11,13,5,6};
+	int arr[]={12,11,13,5,6,43,55,2,6,2,7,2};
 	int n=sizeof(arr)/sizeof(arr[0]);
 	cout<<"original array"<<endl;
 	printArray(arr,n);

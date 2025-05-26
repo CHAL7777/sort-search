@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "BankingSystem",
+      "request": "launch",
+      "mainClass": "BankingSystem",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "CustomerController",
+      "request": "launch",
+      "mainClass": "com.bankcontroller.CustomerController",
+      "projectName": ""
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
