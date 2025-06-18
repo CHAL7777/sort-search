@@ -19,7 +19,6 @@ while(left<=right){
 }
 return -1;
 }
-
 int main(){
 	int arr[]={12,14,16,23,32,45,78};
 	int size=sizeof(arr)/sizeof(arr[0]);
